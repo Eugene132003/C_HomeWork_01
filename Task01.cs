@@ -1,6 +1,6 @@
 ﻿class Task_01
 {
-    public static void Main()
+    public static void Task_01_01()
     {
         /*int a =5;
 int b = 7;
