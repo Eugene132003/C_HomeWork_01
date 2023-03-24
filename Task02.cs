@@ -1,6 +1,6 @@
 class Task_02
 {
-    public static void Main()
+    public static void Task2()
     {
        /* int a2 = 2, b2 = 3, c2 = 7;
         int max2 = a2;
