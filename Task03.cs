@@ -1,6 +1,6 @@
 class Task_03
 {
-    public static void Main()
+    public static void Task03()
     {
         //int a=4;
         //int a=-3;
