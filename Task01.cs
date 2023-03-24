@@ -1,4 +1,8 @@
-﻿/*int a =5;
+﻿class Task_01
+{
+    public static void Main()
+    {
+        /*int a =5;
 int b = 7;
 int max=0;
 if (a>b){
@@ -27,3 +31,5 @@ if (a>b){
     max=b;
 }
 Console.WriteLine(max);
+    }
+}
